@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_DemoAppLists_Kupendiran_DemoAppLists_KupendiranUITests : NSObject
+@end
+@implementation PodsDummy_Pods_DemoAppLists_Kupendiran_DemoAppLists_KupendiranUITests
+@end

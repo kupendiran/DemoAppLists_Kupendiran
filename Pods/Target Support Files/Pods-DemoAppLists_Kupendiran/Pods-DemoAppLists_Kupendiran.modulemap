@@ -1,0 +1,6 @@
+framework module Pods_DemoAppLists_Kupendiran {
+  umbrella header "Pods-DemoAppLists_Kupendiran-umbrella.h"
+
+  export *
+  module * { export * }
+}
